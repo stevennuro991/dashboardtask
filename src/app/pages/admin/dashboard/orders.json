@@ -1,0 +1,14 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "totalOrders": 1000,
+        "totalOrdersCompleted": 955,
+        "totalOrdersCancelled": 45,
+        "totalRevenueDay": 1000,
+        "numberUsers": 1000,
+        "numberRiders": 50
+    }
+
+
+}

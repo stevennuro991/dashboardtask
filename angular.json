@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bmtadmin"
+    }
+  },
+  "defaultProject": "bmtadmin",
+  "cli": {
+    "analytics": "b9aff847-6e09-4d1d-9004-3c6b3e9be163"
+  }
 }
