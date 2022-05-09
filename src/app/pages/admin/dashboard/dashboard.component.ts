@@ -55,10 +55,10 @@ export class DashboardComponent implements OnInit {
                 type: 'bar',
                 data: {
                     datasets: [{
-                        label: 'Total Sales Made That Week',
+                        label: 'Weekly Sales',
                         data: myGraph.data,
-                        backgroundColor: "rgb(115 185 243 / 65%)",
-                        borderColor: "#007ee7",
+                        backgroundColor: "red",
+                        borderColor: "#B0120D",
                        
                     },
                   ],
